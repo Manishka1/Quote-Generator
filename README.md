@@ -17,7 +17,6 @@ The Quote Generator is a web application that displays random quotes each time t
 - **HTML**: Markup language for the app's structure.
 - **CSS**: Styling the app's layout and appearance.
 - **JavaScript**: Logic for generating and displaying quotes, and handling user interactions.
-- **Git**: Version control for managing the project’s source code.
 
 ## How It Works
 
